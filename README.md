@@ -9,6 +9,7 @@
 5. Computer Vision(CV)
 6. Books about English and Language
 7. Machine Learning and Deep Learning
-8. Operating System
-9. Paper Writing
-10. Programming
+8. Natural Language Processing(NLP)
+9. Operating System
+10. Paper Writing
+11. Programming
