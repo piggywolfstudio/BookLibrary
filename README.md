@@ -13,3 +13,5 @@
 9. Operating System
 10. Paper Writing
 11. Programming
+12. Reinforcement Learning
+13. Speech Processing
