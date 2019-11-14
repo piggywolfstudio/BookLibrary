@@ -15,6 +15,6 @@
 11. Natural Language Processing(NLP)
 12. Operating System
 13. Paper Writing
-14. Programming(C,C++,Go,Python,React,Redis,Others)
+14. Programming(Android,C,C++,Cuda,Go,Octave,Python,React,Redis,Others)
 15. Reinforcement Learning
 16. Speech Processing
