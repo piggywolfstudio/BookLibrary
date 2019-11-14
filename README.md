@@ -7,11 +7,14 @@
 3. Books for Leisure
 4. Computer Network
 5. Computer Vision(CV)
-6. Books about English and Language
-7. Machine Learning and Deep Learning
-8. Natural Language Processing(NLP)
-9. Operating System
-10. Paper Writing
-11. Programming
-12. Reinforcement Learning
-13. Speech Processing
+6. Database
+7. Docker
+8. Books about English and Language
+9. Fundamentals of Compiling
+10. Machine Learning and Deep Learning
+11. Natural Language Processing(NLP)
+12. Operating System
+13. Paper Writing
+14. Programming(C,C++,Go,Python,React,Redis,Others)
+15. Reinforcement Learning
+16. Speech Processing
